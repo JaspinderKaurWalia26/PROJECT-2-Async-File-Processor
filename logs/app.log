@@ -1,0 +1,10 @@
+2026-02-07 21:53:25,394 - INFO - file1.txt: 72 words
+2026-02-07 21:53:25,401 - INFO - file3.txt: 121 words
+2026-02-07 21:53:25,401 - INFO - file2.txt: 63 words
+2026-02-07 22:26:47,767 - INFO - file1.txt processed successfully 
+2026-02-07 22:26:47,767 - INFO - file1.txt: 72 words
+2026-02-07 22:26:47,767 - INFO - file2.txt processed successfully 
+2026-02-07 22:26:47,768 - INFO - file2.txt: 63 words
+2026-02-07 22:26:47,768 - INFO - file3.txt processed successfully 
+2026-02-07 22:26:47,768 - INFO - file3.txt: 121 words
+2026-02-07 22:26:47,769 - INFO - All results saved to data/output_files/results.csv
